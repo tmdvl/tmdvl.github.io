@@ -4,9 +4,9 @@ title: Standings
 ---
 
 
+Top 4 qualify for playoffs
 
-
-|  **Season 1 To Date** | w  | l  |
+|  **Season 1 To Date** | **w**  | **l**  |
 | --- |:---:|:---:|
 | White Lotus  | 3 | 0 |
 | Matthew Gottshall | 3 | 1 |
@@ -19,9 +19,11 @@ title: Standings
 | Stormanimagus | 0 | 3 |
 | MaximumCDawg | 0 | 3 |
 
-<br />
 
-|  First Trimester | w  | l  |
+
+<br /><br />
+
+|  **First Trimester Records** | **w**  | **l**  |
 | --- |:---:|:---:|
 | Matthew Gottshall | 3 | 0 |
 | White Lotus  | 3 | 0 |

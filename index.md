@@ -11,3 +11,10 @@ The latest match reports and results can be found over at [The Mana Drain](http:
 <br />
 
 This site is updated soon after new results are posted.
+
+<br />
+
+
+### Recent Updates
+
+[Full Schedule Added]({{site.baseurl}}/results)
