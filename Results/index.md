@@ -30,7 +30,7 @@ title: Results
 | --- |:---:|:---:|:---:|---:|
 | [Dave Kaplan](/DK1-UR-Delver) | 2 | - | 1 | [Stormanimagus](/ST1-Stone-Cold-Humans) |
 | [James Saltsman](/JGS1-Stax) | 2 | - | 1 | [Brian Kelly](/BK1-Dragonlord-Mentor-Control) |
-| [Matthew Gottshall](/MG1-Mono-Blue-Control) | 2 | - | 0 |  [Wappla](/W1-URg-Delver) |
+| [Matthew Gottshall](/MG1-Mono-Blue-Control) | 2 | - | 1 |  [Wappla](/W1-URg-Delver) |
 | [White Lotus](/WL1-Jeskai-Gush-Control) | 2 | - | 0 | [Sean Ottaway](/SO1-Oath) |
 | [Tom Dixon](/TD1-Landstill) | 2 | forfeit | 0 | [MaximumCDawg](/MCD1-Dark-Times) |
 
