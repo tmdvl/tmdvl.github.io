@@ -17,4 +17,4 @@ This site is updated soon after new results are posted.
 
 ### Recent Updates
 
-[Full Schedule Added]({{site.baseurl}}/results)
+[Full Schedule Added]({{site.baseurl}}/Results/)
