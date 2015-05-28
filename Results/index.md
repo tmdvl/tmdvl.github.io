@@ -32,7 +32,7 @@ title: Results
 | [James Saltsman](/JGS1-Stax) | 2 | - | 1 | [Brian Kelly](/BK1-Dragonlord-Mentor-Control) |
 | [Matthew Gottshall](/MG1-Mono-Blue-Control) | 2 | - | 1 |  [Wappla](/W1-URg-Delver) |
 | [White Lotus](/WL1-Jeskai-Gush-Control) | 2 | - | 0 | [Sean Ottaway](/SO1-Oath) |
-| [Tom Dixon](/TD1-Landstill) | 2 | forfeit | 0 | [MaximumCDawg](/MCD1-Dark-Times) |
+| [MaximumCDawg](/MCD1-Dark-Times) | 0 | - | 2 | [Tom Dixon](/TD1-Landstill) |
 
 <br />
 
@@ -44,9 +44,9 @@ title: Results
 | --- |:---:|:---:|:---:|---:|
 | [James Saltsman](/JGS2-Stax) | 2 | - | 1 | [Dave Kaplan](/DK2-UR-Delver)|
 | [Tom Dixon](/TD2-Dredge) | 2 | - | 0 | [Matthew Gottshall](/MG2-UR-Delver) |
-| Brian Kelly | ? | - | ? | Sean Ottaway |
+| [Brian Kelly](/BK2-Dragonlord-Oath) | 2 | - | 0 | [Sean Ottaway](/SO2-Punishing-Dack) |
 | White Lotus | ? | - | ? | MaximumCDawg |
-| [Wappla](/W2-Esper-Dragons) | 0 | - | 2 | [Stormanimagus](/ST2-California-Shops) |
+| [Stormanimagus](/ST2-California-Shops) | 0 | - | 2 | [Wappla](/W2-Esper-Dragons) |
 
 
 <br />
