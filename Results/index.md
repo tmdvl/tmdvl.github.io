@@ -45,7 +45,7 @@ title: Results
 | [James Saltsman](/JGS2-Martello-Shops) | 2 | - | 1 | [Dave Kaplan](/DK2-UR-Delver)|
 | [Tom Dixon](/TD2-Dredge) | 2 | - | 0 | [Matthew Gottshall](/MG2-UR-Delver) |
 | [Brian Kelly](/BK2-Dragonlord-Oath) | 2 | - | 0 | [Sean Ottaway](/SO2-Punishing-Dack) |
-| White Lotus | ? | - | ? | MaximumCDawg |
+| [White Lotus](WL2-Neo-Academy) | ? | - | ? | [MaximumCDawg](/MCD2-The-White-Gate) |
 | [Stormanimagus](/ST2-California-Shops) | 0 | - | 2 | [Wappla](/W2-Esper-Dragons) |
 
 
@@ -53,21 +53,21 @@ title: Results
 
 |  **Season 1 Week 5** |   |   |   |   |
 | --- |:---:|:---:|:---:|---:|
-| White Lotus | ? | - | ? | [Dave Kaplan](/DK2-UR-Delver) |
-| [Tom Dixon](/TD2-Dredge) | ? | - | ? | Brian Kelly |
-| [Matthew Gottshall](/MG2-UR-Delver) | ? | - | ? | Sean Ottaway |
-| Wappla  | ? | - | ? | MaximumCDawg |
-| [James Saltsman](/JGS2-Stax) | ? | - | ? | Stormanimagus |
+| [White Lotus](WL2-Neo-Academy) | ? | - | ? | [Dave Kaplan](/DK2-UR-Delver) |
+| [Tom Dixon](/TD2-Dredge) | ? | - | ? | [Brian Kelly](/BK2-Dragonlord-Oath) |
+| [Matthew Gottshall](/MG2-UR-Delver) | ? | - | ? | [Sean Ottaway](/SO2-Punishing-Dack) |
+| [Wappla](/W2-Esper-Dragons)  | ? | - | ? | [MaximumCDawg](/MCD2-The-White-Gate) |
+| [James Saltsman](/JGS2-Stax) | ? | - | ? | [Stormanimagus](/ST2-California-Shops) |
 
 <br />
 
 |  **Season 1 Week 6** |   |   |   |   |
 | --- |:---:|:---:|:---:|---:|
-| MaximumCDawg| ? | - | ? | [Dave Kaplan](/DK2-UR-Delver) |
+| [MaximumCDawg](/MCD2-The-White-Gate) | ? | - | ? | [Dave Kaplan](/DK2-UR-Delver) |
 | [Tom Dixon](/TD2-Dredge) | ? | - | ? | [James Saltsman](/JGS2-Stax) |
-| [Matthew Gottshall](/MG2-UR-Delver) | ? | - | ? | White Lotus |
-| Wappla  | ? | - | ? | Sean Ottaway |
-| Brian Kelly | ? | - | ? | Stormanimagus |
+| [Matthew Gottshall](/MG2-UR-Delver) | ? | - | ? | [White Lotus](WL2-Neo-Academy) |
+| [Wappla](/W2-Esper-Dragons) | ? | - | ? | [Sean Ottaway](/SO2-Punishing-Dack) |
+| [Brian Kelly](/BK2-Dragonlord-Oath) | ? | - | ? | [Stormanimagus](/ST2-California-Shops) |
 
 <br />
 
