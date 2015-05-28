@@ -42,7 +42,7 @@ title: Results
 
 |  **Season 1 Week 4** |   |   |   |   |
 | --- |:---:|:---:|:---:|---:|
-| [James Saltsman](/JGS2-Stax) | 2 | - | 1 | [Dave Kaplan](/DK2-UR-Delver)|
+| [James Saltsman](/JGS2-Martello-Shops) | 2 | - | 1 | [Dave Kaplan](/DK2-UR-Delver)|
 | [Tom Dixon](/TD2-Dredge) | 2 | - | 0 | [Matthew Gottshall](/MG2-UR-Delver) |
 | [Brian Kelly](/BK2-Dragonlord-Oath) | 2 | - | 0 | [Sean Ottaway](/SO2-Punishing-Dack) |
 | White Lotus | ? | - | ? | MaximumCDawg |
