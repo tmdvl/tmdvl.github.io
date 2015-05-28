@@ -46,7 +46,7 @@ title: Results
 | [Tom Dixon](/TD2-Dredge) | 2 | - | 0 | [Matthew Gottshall](/MG2-UR-Delver) |
 | Brian Kelly | ? | - | ? | Sean Ottaway |
 | White Lotus | ? | - | ? | MaximumCDawg |
-| Wappla | ? | - | ? | Stormanimagus |
+| [Wappla](/W2-Esper-Dragons) | 0 | - | 2 | [Stormanimagus](/ST2-California-Shops) |
 
 
 <br />

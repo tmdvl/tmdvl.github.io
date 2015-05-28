@@ -17,4 +17,6 @@ This site is updated soon after new results are posted.
 
 ### Recent Updates
 
-[Full Schedule Added]({{site.baseurl}}/Results/)
+- W4: Stormanimagus 2-0 Wappla
+- [Full Schedule Added]({{site.baseurl}}/Results/)
+
