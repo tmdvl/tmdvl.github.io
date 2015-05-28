@@ -4,6 +4,7 @@ title: Mono Blue Control
 tag: Matthew Gottshall
 permalink: MG1-Mono-Blue-Control
 category: First Trimester
+color: U
 ---
 
 ### Mana (23)
