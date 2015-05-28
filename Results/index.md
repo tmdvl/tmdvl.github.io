@@ -45,7 +45,7 @@ title: Results
 | [James Saltsman](/JGS2-Martello-Shops) | 2 | - | 1 | [Dave Kaplan](/DK2-UR-Delver)|
 | [Tom Dixon](/TD2-Dredge) | 2 | - | 0 | [Matthew Gottshall](/MG2-UR-Delver) |
 | [Brian Kelly](/BK2-Dragonlord-Oath) | 2 | - | 0 | [Sean Ottaway](/SO2-Punishing-Dack) |
-| [White Lotus](WL2-Neo-Academy) | ? | - | ? | [MaximumCDawg](/MCD2-The-White-Gate) |
+| [White Lotus](/WL2-Neo-Academy) | ? | - | ? | [MaximumCDawg](/MCD2-The-White-Gate) |
 | [Stormanimagus](/ST2-California-Shops) | 0 | - | 2 | [Wappla](/W2-Esper-Dragons) |
 
 
@@ -53,7 +53,7 @@ title: Results
 
 |  **Season 1 Week 5** |   |   |   |   |
 | --- |:---:|:---:|:---:|---:|
-| [White Lotus](WL2-Neo-Academy) | ? | - | ? | [Dave Kaplan](/DK2-UR-Delver) |
+| [White Lotus](/WL2-Neo-Academy) | ? | - | ? | [Dave Kaplan](/DK2-UR-Delver) |
 | [Tom Dixon](/TD2-Dredge) | ? | - | ? | [Brian Kelly](/BK2-Dragonlord-Oath) |
 | [Matthew Gottshall](/MG2-UR-Delver) | ? | - | ? | [Sean Ottaway](/SO2-Punishing-Dack) |
 | [Wappla](/W2-Esper-Dragons)  | ? | - | ? | [MaximumCDawg](/MCD2-The-White-Gate) |
@@ -65,7 +65,7 @@ title: Results
 | --- |:---:|:---:|:---:|---:|
 | [MaximumCDawg](/MCD2-The-White-Gate) | ? | - | ? | [Dave Kaplan](/DK2-UR-Delver) |
 | [Tom Dixon](/TD2-Dredge) | ? | - | ? | [James Saltsman](/JGS2-Stax) |
-| [Matthew Gottshall](/MG2-UR-Delver) | ? | - | ? | [White Lotus](WL2-Neo-Academy) |
+| [Matthew Gottshall](/MG2-UR-Delver) | ? | - | ? | [White Lotus](/WL2-Neo-Academy) |
 | [Wappla](/W2-Esper-Dragons) | ? | - | ? | [Sean Ottaway](/SO2-Punishing-Dack) |
 | [Brian Kelly](/BK2-Dragonlord-Oath) | ? | - | ? | [Stormanimagus](/ST2-California-Shops) |
 
