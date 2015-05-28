@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Neo Academy
-tag: Neo Academy
+tag: White Lotus
 permalink: WL2-Neo-Academy
 category: Second Trimester
 color: URWBG
