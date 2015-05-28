@@ -2,7 +2,7 @@
 layout: post
 title: Martello Shops
 tag: James Saltsman
-permalink: JGS2-Martello Shops
+permalink: JGS2-Martello-Shops
 category: Second Trimester
 color: MUD
 ---
