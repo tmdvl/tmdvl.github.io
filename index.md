@@ -2,7 +2,23 @@
 layout: default
 ---
 
-The inaugural season of the Mana Drain Vintage League is currently in progress.
+Welcome!
+
+The Mana Drain Vintage League is a 10 player, 9-week competition. Players play each other competitor once, cutting to a top four playoff. Decklists are set in 3-week trimesters, rotating through the season.
+
+The players for the inaugural season are:
+
+- Matthew Gottshall
+- Brian Kelly
+- James Saltsman
+- Tom Dixon
+- Sean Ottaway
+- Dave Kaplan
+- Stormanimagus
+- Maximum C Dawg
+- Wappla
+- White Lotus
+
 
 <br />
 
