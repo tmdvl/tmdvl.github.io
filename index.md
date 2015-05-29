@@ -4,7 +4,7 @@ layout: default
 
 ### Welcome!
 
-The Mana Drain Vintage League is a 10 player, 9-week competition. Players play each other competitor once, cutting to a top four playoff. Decklists are set in 3-week trimesters, rotating through the season.
+The Mana Drain Vintage League is a 10 player, 9-week competition. Players play each other competitor once, cutting to a top four playoff. Decklists are set for 3-week trimesters, rotating at the end of each trimester throughout the season.
 
 The players for the inaugural season are:
 
@@ -19,8 +19,9 @@ The players for the inaugural season are:
 - Wappla
 - White Lotus
 
-
+Week 4 is currently in progress
 <br />
+
 
 The latest match reports and results can be found over at [The Mana Drain](http://www.themanadrain.com/index.php?topic=47741.0).
 
