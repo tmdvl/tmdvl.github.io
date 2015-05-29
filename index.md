@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Welcome!
+### Welcome!
 
 The Mana Drain Vintage League is a 10 player, 9-week competition. Players play each other competitor once, cutting to a top four playoff. Decklists are set in 3-week trimesters, rotating through the season.
 
