@@ -46,7 +46,7 @@ title: Results
 | [Tom Dixon](/TD2-Dredge) | 2 | - | 0 | [Matthew Gottshall](/MG2-UR-Delver) |
 | [Brian Kelly](/BK2-Dragonlord-Oath) | 2 | - | 0 | [Sean Ottaway](/SO2-Punishing-Dack) |
 | [White Lotus](/WL2-Neo-Academy) | ? | - | ? | [MaximumCDawg](/MCD2-The-White-Gate) |
-| [Stormanimagus](/ST2-California-Shops) | 0 | - | 2 | [Wappla](/W2-Esper-Dragons) |
+| [Stormanimagus](/ST2-California-Shops) | 2 | - | 0 | [Wappla](/W2-Esper-Dragons) |
 
 
 <br />
