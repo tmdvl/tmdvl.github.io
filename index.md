@@ -20,6 +20,7 @@ The players for the inaugural season are:
 - White Lotus
 
 Week 4 is currently in progress
+
 <br />
 
 
