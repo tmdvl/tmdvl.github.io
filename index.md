@@ -34,6 +34,7 @@ This site is updated soon after new results are posted.
 
 
 ### Recent Updates
+- W4: White Lotus 2-0 Maximum C Dawg
 - Second Trimester Decklists posted
 - W4: Brian Kelly 2-0 Sean Ottaway
 - W4: Stormanimagus 2-0 Wappla
