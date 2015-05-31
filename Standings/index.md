@@ -9,9 +9,9 @@ Top 4 qualify for playoffs
 |  **Season 1 To Date** | **w**  | **l**  |
 | --- |:---:|:---:|
 | White Lotus  | 4 | 0 |
-| Matthew Gottshall | 3 | 1 |
+| Matthew Gottshall | 4 | 1 |
 | Brian Kelly | 2 | 1 |
-| Sean Ottaway | 2 | 1 |
+| Sean Ottaway | 2 | 3 |
 | Dave Kaplan  | 2 | 2 |
 | Tom Dixon  | 2 | 2 |
 | James Saltsman | 2 | 2 |
