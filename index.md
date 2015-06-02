@@ -23,17 +23,13 @@ The players for the inaugural season are:
 
 <br />
 
-
-The latest match reports and results can be found over at [The Mana Drain](http://www.themanadrain.com/index.php?topic=47741.0).
-
-<br />
-
 This site is updated soon after new results are posted.
 
 <br />
 
 
 ### Recent Updates
+- Match Reports posted to Week pages
 - W5: James Saltsman 2-1 Stormanimagus
 - W5: Matthew Gottshall 2-0 Sean Ottaway
 - W4: White Lotus 2-0 Maximum C Dawg

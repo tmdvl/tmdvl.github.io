@@ -44,6 +44,8 @@ td {
     min-width: 50px;
 }
 
+
+
 tr:nth-child(even) {background: #f1f1f1}
 tr:nth-child(odd) {background: #FFF}
 
@@ -242,7 +244,6 @@ nav {
     margin-right: 20px;
     color: $darkGray;
     text-align: right;
-    letter-spacing: 1px;
 
     @include mobile {
       margin: 0 10px;
@@ -267,12 +268,9 @@ nav {
 
 .post {
   blockquote {
-    margin: 1.8em .8em;
-    border-left: 2px solid $gray;
-    padding: 0.1em 1em;
-    color: $gray;
-    font-size: 22px;
-    font-style: italic;
+    margin: .9em 1.8em;
+    color: #999;
+    font-size: 1em;
   }
 
   .comments {
