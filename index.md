@@ -34,6 +34,7 @@ This site is updated soon after new results are posted.
 
 
 ### Recent Updates
+- W5: James Saltsman 2-1 Stormanimagus
 - W5: Matthew Gottshall 2-0 Sean Ottaway
 - W4: White Lotus 2-0 Maximum C Dawg
 - Second Trimester Decklists posted
