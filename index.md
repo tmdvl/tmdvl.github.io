@@ -19,7 +19,7 @@ The players for the inaugural season are:
 - Wappla
 - White Lotus
 
-Week 4 is currently in progress
+**Week 5 is currently in progress**
 
 <br />
 
@@ -38,7 +38,5 @@ This site is updated soon after new results are posted.
 - W5: Matthew Gottshall 2-0 Sean Ottaway
 - W4: White Lotus 2-0 Maximum C Dawg
 - Second Trimester Decklists posted
-- W4: Brian Kelly 2-0 Sean Ottaway
-- W4: Stormanimagus 2-0 Wappla
-- [Full Schedule Added]({{site.baseurl}}/Results/)
+
 
