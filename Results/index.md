@@ -6,8 +6,8 @@ title: Results
 
 
 
-|  **Season 1 Week 1** |   |   |   |   |
-| --- |:---:|:---:|:---:|---:|
+| <a href="{{ site.baseurl }}/Weeks/1" class="black">Season 1 Week 1</a> |   |   |   |   |
+| :--- |:---:|:---:|:---:|---:|
 | [Brian Kelly](/BK1-Dragonlord-Mentor-Control)  | 2 | - | 0 | [MaximumCDawg](/MCD1-Dark-Times)
 | [Matthew Gottshall](/MG1-Mono-Blue-Control) | 2 | - | 0 | [James Saltsman](/JGS1-Stax) |
 | [Dave Kaplan](/DK1-UR-Delver)  | 2 | - | 0 | [Wappla](/W1-URg-Delver) |
@@ -16,8 +16,8 @@ title: Results
 
 <br />
 
-|  **Season 1 Week 2** |   |   |   |   |
-| --- |:---:|:---:|:---:|---:|
+|  <a href="{{ site.baseurl }}/Weeks/2" class="black">Season 1 Week 2</a> |   |   |   |   |
+| :--- |:---:|:---:|:---:|---:|
 | [Brian Kelly](/BK1-Dragonlord-Mentor-Control)  | 2 | - | 0 | [Wappla](/W1-URg-Delver) |
 | [White Lotus](/WL1-Jeskai-Gush-Control) | 2 | - | 1 | [James Saltsman](/JGS1-Stax) |
 | [Tom Dixon](/TD1-Landstill) | 2 | - | 1 | [Stormanimagus](/ST1-Stone-Cold-Humans) |
@@ -26,8 +26,8 @@ title: Results
 
 <br />
 
-|  **Season 1 Week 3** |   |   |   |   |
-| --- |:---:|:---:|:---:|---:|
+|  <a href="{{ site.baseurl }}/Weeks/3" class="black">Season 1 Week 3</a> |   |   |   |   |
+| :--- |:---:|:---:|:---:|---:|
 | [Dave Kaplan](/DK1-UR-Delver) | 2 | - | 1 | [Stormanimagus](/ST1-Stone-Cold-Humans) |
 | [James Saltsman](/JGS1-Stax) | 2 | - | 1 | [Brian Kelly](/BK1-Dragonlord-Mentor-Control) |
 | [Matthew Gottshall](/MG1-Mono-Blue-Control) | 2 | - | 1 |  [Wappla](/W1-URg-Delver) |
@@ -40,8 +40,8 @@ title: Results
 <br />
 
 
-|  **Season 1 Week 4** |   |   |   |   |
-| --- |:---:|:---:|:---:|---:|
+|  <a href="{{ site.baseurl }}/Weeks/4" class="black">Season 1 Week 4</a> |   |   |   |   |
+| :--- |:---:|:---:|:---:|---:|
 | [James Saltsman](/JGS2-Martello-Shops) | 2 | - | 1 | [Dave Kaplan](/DK2-UR-Delver)|
 | [Tom Dixon](/TD2-Dredge) | 2 | - | 0 | [Matthew Gottshall](/MG2-UR-Delver) |
 | [Brian Kelly](/BK2-Dragonlord-Oath) | 2 | - | 0 | [Sean Ottaway](/SO2-Punishing-Dack) |
@@ -51,8 +51,8 @@ title: Results
 
 <br />
 
-|  **Season 1 Week 5** |   |   |   |   |
-| --- |:---:|:---:|:---:|---:|
+|  <a href="{{ site.baseurl }}/Weeks/5" class="black">Season 1 Week 5</a> |   |   |   |   |
+| :--- |:---:|:---:|:---:|---:|
 | [White Lotus](/WL2-Neo-Academy) | ? | - | ? | [Dave Kaplan](/DK2-UR-Delver) |
 | [Tom Dixon](/TD2-Dredge) | ? | - | ? | [Brian Kelly](/BK2-Dragonlord-Oath) |
 | [Matthew Gottshall](/MG2-UR-Delver) | 2 | - | 0 | [Sean Ottaway](/SO2-Punishing-Dack) |
@@ -62,7 +62,7 @@ title: Results
 <br />
 
 |  **Season 1 Week 6** |   |   |   |   |
-| --- |:---:|:---:|:---:|---:|
+| :--- |:---:|:---:|:---:|---:|
 | [MaximumCDawg](/MCD2-The-White-Gate) | ? | - | ? | [Dave Kaplan](/DK2-UR-Delver) |
 | [Tom Dixon](/TD2-Dredge) | ? | - | ? | [James Saltsman](/JGS2-Stax) |
 | [Matthew Gottshall](/MG2-UR-Delver) | ? | - | ? | [White Lotus](/WL2-Neo-Academy) |

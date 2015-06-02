@@ -95,8 +95,12 @@ a {
   &:hover, &:active {
     color: $blue;
   }
+
 }
 
+a.black {
+        color: #1c2425;
+font-weight: bold;}
 ul, ol {
   margin: 0;
   padding-left: 30px;
