@@ -29,6 +29,8 @@ This site is updated soon after new results are posted.
 
 
 ### Recent Updates
+- W5: Wappla 2-0 MaximumCDawg
+- W5: Dave Kaplan 2-0 White Lotus
 - Match Reports posted to Week pages
 - W5: James Saltsman 2-1 Stormanimagus
 - W5: Matthew Gottshall 2-0 Sean Ottaway
