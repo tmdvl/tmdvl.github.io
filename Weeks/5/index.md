@@ -33,7 +33,8 @@ G2 I win a topdeck war. My opener is insane again. Jet, two lands, Ancestral, Du
 
 ### [Tom Dixon](/TD2-Dredge) 1 - 2 [Brian Kelly](/BK2-Dragonlord-Oath)
 
-Report coming soon
+***Brian Kelly***: Game 1, I mulled to 5 and got Dredged.  Game 2, I had two hate pieces and Oath of Druids, and Mental Mistep for his Chain of Vapor.  Oathed up Auriok and all his toys.  Game 3 was a long convoluted affair.  I had no hard Dredge hate, but had Library, Orchard, Mox, Oath of Druids, Yawgmoth's Will and goodstuff.  Oath of Druids the card is soft Dredge hate so I was satisfied.  He led w. Bazaar and Ingot Chewered my Ruby.  I had a fast Jace and though there was still no Dredge hate, my counterspells were stopping the Cabal Therapies and Dread Returns so I only took a nominal amount of damage each turn.  The turn before he threatened lethal, Jace found the Time Walk to go along with the impending Yawgmoth's Will.  3 turns and 2 Ancestrals later, we Oathed up Auriok and destroyed his board with EE 0 and Pyrite on the Bloodghast, followed by Crypt activation.  There was unlimited access to Tormod's and Nihil Spellbomb at that point.  The following turn, I Demonic Tutored for Lion's Eye Diamond.
+
 <br />
 
 ### [Dave Kaplan](/DK2-UR-Delver) 2 - 0 [White Lotus](/WL2-Neo-Academy)

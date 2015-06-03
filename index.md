@@ -29,6 +29,7 @@ This site is updated soon after new results are posted.
 
 
 ### Recent Updates
+- W5: Brian Kelly 2-1 Tom Dixon
 - W5: Wappla 2-0 MaximumCDawg
 - W5: Dave Kaplan 2-0 White Lotus
 - Match Reports posted to Week pages
