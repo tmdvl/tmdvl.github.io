@@ -3,8 +3,6 @@ layout: weekpage
 title: Week 5
 ---
 
-### Currently in progress
-
 ### [Matthew Gottshall](/MG2-UR-Delver) 2 - 0 [Sean Ottaway](/SO2-Punishing-Dack)
 
 ***Matthew Gottshall***: Game One my Delver pretty much went the distance, then a Pyromancer cleaned up.

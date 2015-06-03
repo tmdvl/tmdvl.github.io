@@ -19,7 +19,7 @@ The players for the inaugural season are:
 - Wappla
 - White Lotus
 
-**Week 5 is currently in progress**
+**Week 6 is currently in progress**
 
 <br />
 
@@ -29,13 +29,12 @@ This site is updated soon after new results are posted.
 
 
 ### Recent Updates
+- W6: Tom Dixon 2-0 James Saltsman
 - W5: Brian Kelly 2-1 Tom Dixon
 - W5: Wappla 2-0 MaximumCDawg
 - W5: Dave Kaplan 2-0 White Lotus
-- Match Reports posted to Week pages
 - W5: James Saltsman 2-1 Stormanimagus
 - W5: Matthew Gottshall 2-0 Sean Ottaway
-- W4: White Lotus 2-0 Maximum C Dawg
 - Second Trimester Decklists posted
 
 
