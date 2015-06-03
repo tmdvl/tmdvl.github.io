@@ -31,8 +31,9 @@ G2 I win a topdeck war. My opener is insane again. Jet, two lands, Ancestral, Du
 
 <br />
 
-### [Tom Dixon](/TD2-Dredge) ? - ? [Brian Kelly](/BK2-Dragonlord-Oath)
+### [Tom Dixon](/TD2-Dredge) 1 - 2 [Brian Kelly](/BK2-Dragonlord-Oath)
 
+Report coming soon
 <br />
 
 ### [Dave Kaplan](/DK2-UR-Delver) 2 - 0 [White Lotus](/WL2-Neo-Academy)
