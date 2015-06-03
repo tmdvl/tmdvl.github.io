@@ -5,7 +5,7 @@ title: Week 5
 
 ### Currently in progress
 
-### [Matthew Gottshall](/MG2-UR-Delver) ? - ? [Sean Ottaway](/SO2-Punishing-Dack)
+### [Matthew Gottshall](/MG2-UR-Delver) 2 - 0 [Sean Ottaway](/SO2-Punishing-Dack)
 
 ***Matthew Gottshall***: Game One my Delver pretty much went the distance, then a Pyromancer cleaned up.
 Game Two he wasted my turn one Volc putting me behind for a while but he didn't draw much and I eventually went broken, including stealing a Sapphire and Seat of the Synod from him to Hardcast an Ingot Chewer to beat, Pyromancer also closed out this game as well.
@@ -14,7 +14,20 @@ I was actually not looking forward to the match given his list had Grove and Pun
 
 <br />
 
-### [MaximumCDawg](/MCD2-The-White-Gate) ? - ? [Wappla](/W2-Esper-Dragons)
+### [MaximumCDawg](/MCD2-The-White-Gate) 2 - 0 [Wappla](/W2-Esper-Dragons)
+
+***Wappla***: Dragonlord Ojutai performed excellently against an outspoken critic. Ojutai's pilot also drew pretty insane against a deck without countermagic, and that helps the cause.
+
+I tested this matchup a lot in the past couple days and found it to be very bad for me. I needed a significant developmental advantage to have a chance, but the number of flying threats and edicts my opponent was running meant that even into the lategame I was far from secure if I was without countermagic. My plan for the matchup was to fight fire with fire and resolve Ojutai as early and, if removed, as often as possible. I'm not running four to play him only after I'm assured of victory.
+
+I lost the die-roll
+
+G1 My hand was Mox Sapphire, Mox Emerald, Sol Ring, Gush, Gush, Ancestral Recall, Dragonlord Ojutai. I kept. I can't afford to play a slow game, so mulliganing into a hand of 6 with 3 lands would likely be a losing proposition. If MaximumCDawg does not have turn one discard spells, I am in very good shape. He didn't, having kept a hand of Wasteland, Wasteland, Swamp, Liliana, Abyssal Persecutor, Gatekeeper of Malakir. He plays Swamp and passes. I topdeck Flooded Strand, drop my moxen, Ancestral into Duress, Duress taking Liliana, the only non-land, non-creature. He wastes me but I draw Tundra and resolve Dragonlord Ojutai. He plays Bitterblossom, threatening to tie up the board with chump blockers while he can develop his other threats. I topdeck Jace and swing with Ojutai. Ojutai sees a second Jace, a third Gush and a Jet. I take the Jet and play the Jace I had. Even this simple interaction of filtering my next two draw phases is very valuable. I avoid drawing two cards that would have been blanks. I fateseal and tell him to keep Stoneforge Mystic, as he has no white mana source. Without a second black, he can't play anything in his hand and passes. I draw Brainstorm, Jace bounces the Faerie token, and I Gush into Time Walk. I Brainstorm into Dig and Mana Drain, sealing the game. I have two more attack phases before he draws again, which will put him to 4 life, and then I can counter whatever his next spell is.
+
+
+I sideboard in two Swords to Plowshares and Thoughtseize, taking out my Moats.
+
+G2 I win a topdeck war. My opener is insane again. Jet, two lands, Ancestral, Duress, Gush, Preordain. Again he has no T1 play, just a land. I Duress, seeing double Hymn to Tourach and taking one, then Ancestral. His subsequent Hymn strips Gush and Ruby. A midgame fight over my Liliana caries out over several turns. At the end of it he has Vampire Nighthawk in play, Batterskull in hand, and I have plenty of mana but only Misstep and Flusterstorm in hand. I topdeck one of the four Dragonlords and play him. Although Nighthawk would theoretically win the race on damage, he can't afford to let me Ponder every turn, so neither of us attack. He resolves his Batterskull. I topdeck Dig Through Time. I see Jace, Gush, Treasure Cruise. I take Gush and Cruise. Cruise finds Sol Ring, a second Ojutai and Demonic Tutor. I DT for Swords, remove his Nighthawk and swing with Ojutai. Ojutai finds my second Swords! Now I feel very good. He is hellbent and I have removal for at least one threat. I Gush into Force, and over the four turns it takes to close out the game, Ojutai makes sure I have enough countermagic to prevent anything from hitting the board. He's a planeswalker with five power. My redundant Ojutai's are pitched to Force of Will.
 
 <br />
 
@@ -22,7 +35,9 @@ I was actually not looking forward to the match given his list had Grove and Pun
 
 <br />
 
-### [Dave Kaplan](/DK2-UR-Delver) ? - ? [White Lotus](/WL2-Neo-Academy)
+### [Dave Kaplan](/DK2-UR-Delver) 2 - 0 [White Lotus](/WL2-Neo-Academy)
+
+***Dave Kaplan***: It was tough to see both games being conceded multiple turns prior to a win, but I guess my opponent wasn't feeling it. Shattering Spree and Ingot Chewer did serious work game 2. Game 1 I countered artifacts which killed his Glimmervoids. It was pretty brutal.
 
 <br />
 
