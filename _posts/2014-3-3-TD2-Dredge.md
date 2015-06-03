@@ -11,11 +11,11 @@ color:
 - 4 Bazaar of Baghdad
 - 4 Serum Powder
 
-### Land (9)
+### Land (10)
 - 4 Undiscovered Paradise
 - 3 Petrified Field
 - 1 Mana Confluence
-- 1 Dakmor Salvage
+- 2 Dakmor Salvage
 
 ### Creatures (16)
 - 4 Bridge from Below
