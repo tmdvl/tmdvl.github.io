@@ -12,7 +12,7 @@ I was actually not looking forward to the match given his list had Grove and Pun
 
 <br />
 
-### [MaximumCDawg](/MCD2-The-White-Gate) 2 - 0 [Wappla](/W2-Esper-Dragons)
+### [MaximumCDawg](/MCD2-The-White-Gate) 0 - 2 [Wappla](/W2-Esper-Dragons)
 
 ***Wappla***: Dragonlord Ojutai performed excellently against an outspoken critic. Ojutai's pilot also drew pretty insane against a deck without countermagic, and that helps the cause.
 
