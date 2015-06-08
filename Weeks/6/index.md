@@ -17,7 +17,11 @@ G2: I keep a no Bazaar hand with Powder because it has Chewer 2 Claim Narco and 
 
 <br />
 
-### [Matthew Gottshall](/MG2-UR-Delver) ? - ? [White Lotus](/WL2-Neo-Academy)
+### [Matthew Gottshall](/MG2-UR-Delver) 0 - 2 [White Lotus](/WL2-Neo-Academy)
+
+***White Lotus***: Defense grids/Abeyances get there after being countered and tutored up multiple times.
+G1 on the back of tezzeret -2 fetch Time vault + untap with Mind over Matter.
+G2 I stroke myself for 27 (the rest of my deck), untap Candelabra (which untaps Academy and Minamo, minamo untaps Academy) a bunch of times with Mind over matter and stroke my opponent with over 900 blue mana in pool.
 
 <br />
 

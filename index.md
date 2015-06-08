@@ -29,12 +29,11 @@ This site is updated soon after new results are posted.
 
 
 ### Recent Updates
+- W6: White Lotus 2-0 Matthew Gottshall
 - W6: Tom Dixon 2-0 James Saltsman
 - W5: Brian Kelly 2-1 Tom Dixon
 - W5: Wappla 2-0 MaximumCDawg
 - W5: Dave Kaplan 2-0 White Lotus
-- W5: James Saltsman 2-1 Stormanimagus
-- W5: Matthew Gottshall 2-0 Sean Ottaway
 - Second Trimester Decklists posted
 
 
