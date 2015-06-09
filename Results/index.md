@@ -63,7 +63,7 @@ title: Results
 
 |  <a href="{{ site.baseurl }}/Weeks/6" class="black">Season 1 Week 6</a>  |   |   |   |   |
 | :--- |:---:|:---:|:---:|---:|
-| [MaximumCDawg](/MCD2-The-White-Gate) | ? | - | ? | [Dave Kaplan](/DK2-UR-Delver) |
+| [MaximumCDawg](/MCD2-The-White-Gate) | 0 | - | 2 | [Dave Kaplan](/DK2-UR-Delver) |
 | [Tom Dixon](/TD2-Dredge) | 2 | - | 0 | [James Saltsman](/JGS2-Stax) |
 | [Matthew Gottshall](/MG2-UR-Delver) | 0 | - | 2 | [White Lotus](/WL2-Neo-Academy) |
 | [Wappla](/W2-Esper-Dragons) | ? | - | ? | [Sean Ottaway](/SO2-Punishing-Dack) |

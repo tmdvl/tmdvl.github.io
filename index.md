@@ -29,6 +29,7 @@ This site is updated soon after new results are posted.
 
 
 ### Recent Updates
+- W6: Dave Kaplan 2-0 MaximumCDawg
 - W6: White Lotus 2-0 Matthew Gottshall
 - W6: Tom Dixon 2-0 James Saltsman
 - W5: Brian Kelly 2-1 Tom Dixon

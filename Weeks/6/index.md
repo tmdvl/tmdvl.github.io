@@ -5,7 +5,13 @@ title: Week 6
 
 ### Currently in progress
 
-### [MaximumCDawg](/MCD2-The-White-Gate) ? - ? [Dave Kaplan](/DK2-UR-Delver)
+### [MaximumCDawg](/MCD2-The-White-Gate) 0 - 2 [Dave Kaplan](/DK2-UR-Delver)
+
+***MaximumCDawg***: First match, I keep a hand with two Bobs and a Stoneforge.  I figure that I'll jam 2cc dorks until one sticks, end with the Stoneforge, and try to ride that out.  We trade discard and countermagic and then I resolve Bob.  I miss Bob's first trigger and then he eats a bolt, so Bob didn't accomplish much.  Eventually Stoneforge and Batterskull do arrive, but in the three turns it takes to get that far a Pyromancer has been giving birth for a few turns and he has been digging up a storm.  Dack arrives to deal with Batterskull and a second Pyromancer makes things totally ridiculous.
+
+SB: I bring in the Illness in the Ranks.
+
+Second match, I fan to a hand with only a Plains for mana.  That's not gonna do it.  So I fan to six with NO mana.  Then fan to five, see a Wasteland as only mana.  Finally, I fan to four and find a swamp, nighthawk, Illness, and Inquisition.  I lead with Swamp->Inquire and it eats a Misstep.  Perfect.  I then resolve Illness, and hope that shutting off Pyromancer will give me time to play with.  He resolves a Delver but it can't flip, and eventually gets killed by Innocent Blood.  Then, opponent starts playing Pyros as grizzly bears, which is just fine because I'm stuck on 2 lands. By the time I finally get to cast Nighthawk, it's just too late.
 
 <br />
 
