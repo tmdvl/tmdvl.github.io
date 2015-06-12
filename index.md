@@ -2,6 +2,9 @@
 layout: default
 ---
 
+### Join us on stream for Week 7 matches, Sunday, 14 June 10pm Eastern, 7 Pacific
+***[www.twitch.tv/hammybone](www.twitch.tv/hammybone)***
+
 ### Recent Updates
 - Match Videos added to Week 6 page.
 - W6: Brian Kelly 2-1 Stormanimagus
