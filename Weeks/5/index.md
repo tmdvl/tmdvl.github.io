@@ -37,6 +37,8 @@ G2 I win a topdeck war. My opener is insane again. Jet, two lands, Ancestral, Du
 
 ### [Dave Kaplan](/DK2-UR-Delver) 2 - 0 [White Lotus](/WL2-Neo-Academy)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BjwRkW6c72s?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+
 ***Dave Kaplan***: It was tough to see both games being conceded multiple turns prior to a win, but I guess my opponent wasn't feeling it. Shattering Spree and Ingot Chewer did serious work game 2. Game 1 I countered artifacts which killed his Glimmervoids. It was pretty brutal.
 
 <br />
