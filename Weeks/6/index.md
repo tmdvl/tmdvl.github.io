@@ -33,7 +33,7 @@ G2 I stroke myself for 27 (the rest of my deck), untap Candelabra (which untaps 
 
 <br />
 
-### [Wappla](/W2-Esper-Dragons) ? - ? [Sean Ottaway](/SO2-Punishing-Dack)
+### [Wappla](/W2-Esper-Dragons) 1 - 2 [Sean Ottaway](/SO2-Punishing-Dack)
 
 <br />
 

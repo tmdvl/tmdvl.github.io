@@ -9,11 +9,11 @@ layout: default
 
 ### Recent Updates
 - Match Videos added to Week 6 page.
+- W6: Sean Ottaway 2-1 Wappla
 - W6: Brian Kelly 2-1 Stormanimagus
 - W6: Dave Kaplan 2-0 MaximumCDawg
 - W6: White Lotus 2-0 Matthew Gottshall
 - W6: Tom Dixon 2-0 James Saltsman
-- W5: Wappla 2-0 MaximumCDawg
 - Second Trimester Decklists posted
 
 

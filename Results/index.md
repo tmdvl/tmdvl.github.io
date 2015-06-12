@@ -66,7 +66,7 @@ title: Results
 | [MaximumCDawg](/MCD2-The-White-Gate) | 0 | - | 2 | [Dave Kaplan](/DK2-UR-Delver) |
 | [Tom Dixon](/TD2-Dredge) | 2 | - | 0 | [James Saltsman](/JGS2-Stax) |
 | [Matthew Gottshall](/MG2-UR-Delver) | 0 | - | 2 | [White Lotus](/WL2-Neo-Academy) |
-| [Wappla](/W2-Esper-Dragons) | ? | - | ? | [Sean Ottaway](/SO2-Punishing-Dack) |
+| [Wappla](/W2-Esper-Dragons) | 1 | - | 2 | [Sean Ottaway](/SO2-Punishing-Dack) |
 | [Brian Kelly](/BK2-Dragonlord-Oath) | 2 | - | 0 | [Stormanimagus](/ST2-California-Shops) |
 
 <br />
