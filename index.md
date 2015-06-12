@@ -3,7 +3,7 @@ layout: default
 ---
 
 ### Join us for Week 7 matches! Sunday June 14 @ 10pm EST / 7pm PST
-<b><a href="www.twitch.tv/hammybone">www.twitch.tv/hammybone</a></b>
+<b><a href="http://www.twitch.tv/hammybone">twitch.tv/hammybone</a></b>
 
 <br />
 
