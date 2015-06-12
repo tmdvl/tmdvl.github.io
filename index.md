@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### Join us on stream for Week 7 matches, Sunday, 14 June 10pm Eastern, 7 Pacific
+### Join us for Week 7 matches! Sunday, 14 June 10pm EST / 7 PST
 ***[www.twitch.tv/hammybone](www.twitch.tv/hammybone)***
 
 ### Recent Updates
