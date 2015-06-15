@@ -2,19 +2,14 @@
 layout: default
 ---
 
-### Join us for Week 7 matches! Sunday June 14 @ 10pm EST / 7pm PST
-<b><a href="http://www.twitch.tv/hammybone">twitch.tv/hammybone</a></b>
-
-<br />
+### The Third and Final Trimester has just begun, decklists coming soon
 
 ### Recent Updates
+- Week 7: Wappla 2-0 White Lotus
+- Week 7: Brian Kelly 2-1 Matthew Gottshall
+- Week 7: Dave Kaplan 2-0 Tom Dixon
 - Match Videos added to Week 6 page.
-- W6: Sean Ottaway 2-1 Wappla
-- W6: Brian Kelly 2-1 Stormanimagus
-- W6: Dave Kaplan 2-0 MaximumCDawg
-- W6: White Lotus 2-0 Matthew Gottshall
-- W6: Tom Dixon 2-0 James Saltsman
-- Second Trimester Decklists posted
+
 
 
 ### Welcome!

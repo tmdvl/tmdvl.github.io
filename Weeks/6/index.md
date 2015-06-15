@@ -3,8 +3,6 @@ layout: weekpage
 title: Week 6
 ---
 
-### Currently in progress
-
 ### [MaximumCDawg](/MCD2-The-White-Gate) 0 - 2 [Dave Kaplan](/DK2-UR-Delver)
 
 ***MaximumCDawg***: First match, I keep a hand with two Bobs and a Stoneforge.  I figure that I'll jam 2cc dorks until one sticks, end with the Stoneforge, and try to ride that out.  We trade discard and countermagic and then I resolve Bob.  I miss Bob's first trigger and then he eats a bolt, so Bob didn't accomplish much.  Eventually Stoneforge and Batterskull do arrive, but in the three turns it takes to get that far a Pyromancer has been giving birth for a few turns and he has been digging up a storm.  Dack arrives to deal with Batterskull and a second Pyromancer makes things totally ridiculous.

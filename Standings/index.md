@@ -8,14 +8,14 @@ Top 4 qualify for playoffs
 
 |  **Season 1 To Date** | **w**  | **l**  |
 | --- |:---:|:---:|
-| White Lotus  | 5 | 1 |
-| Brian Kelly | 5 | 1 |
-| Matthew Gottshall | 4 | 2 |
-| Dave Kaplan  | 4 | 2 |
+| Brian Kelly | 6 | 1 |
+| White Lotus  | 5 | 2 |
+| Dave Kaplan  | 5 | 2 |
+| Matthew Gottshall | 4 | 3 |
 | James Saltsman | 3 | 3 |
-| Tom Dixon  |3 | 3 |
+| Tom Dixon  |3 | 4 |
 | Sean Ottaway | 3 | 3 |
-| Wappla | 1 | 5 |
+| Wappla | 2 | 5 |
 | Stormanimagus | 1 | 5 |
 | MaximumCDawg | 1 | 5 |
 
@@ -34,6 +34,8 @@ Top 4 qualify for playoffs
 | James Saltsman | 1 | 2 |
 | Wappla | 0 | 3 |
 | Stormanimagus | 0 | 3 |
+
+<br /><br />
 
 |  **Second Trimester Records** | **w**  | **l**  |
 | --- |:---:|:---:|

@@ -77,10 +77,10 @@ title: Results
 |  **Season 1 Week 7** |   |   |   |   |
 | --- |:---:|:---:|:---:|---:|
 | MaximumCDawg | ? | - | ? | Stormanimagus |
-| Tom Dixon | ? | - | ? | Dave Kaplan |
-| Matthew Gottshall | ? | - | ? | Brian Kelly |
+| Tom Dixon | 0 | - | 2 | Dave Kaplan |
+| Matthew Gottshall | 1 | - | 2 | Brian Kelly |
 | James Saltsman  | ? | - | ? | Sean Ottaway |
-| Wappla | ? | - | ? | White Lotus |
+| Wappla | 2 | - | 0 | White Lotus |
 
 
 <br />
