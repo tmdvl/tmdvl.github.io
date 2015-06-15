@@ -13,8 +13,8 @@ Top 4 qualify for playoffs
 | Dave Kaplan  | 5 | 2 |
 | Matthew Gottshall | 4 | 3 |
 | James Saltsman | 3 | 3 |
-| Tom Dixon  |3 | 4 |
 | Sean Ottaway | 3 | 3 |
+| Tom Dixon  |3 | 4 |
 | Wappla | 2 | 5 |
 | Stormanimagus | 1 | 5 |
 | MaximumCDawg | 1 | 5 |
