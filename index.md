@@ -29,13 +29,6 @@ The players for the inaugural season are:
 - Wappla
 - White Lotus
 
-**Week 6 is currently in progress**
-
-<br />
-
-This site is updated soon after new results are posted.
-
-<br />
 
 
 
