@@ -79,7 +79,7 @@ title: Results
 | MaximumCDawg | ? | - | ? | Stormanimagus |
 | Tom Dixon | 0 | - | 2 | Dave Kaplan |
 | Matthew Gottshall | 1 | - | 2 | Brian Kelly |
-| James Saltsman  | ? | - | ? | Sean Ottaway |
+| James Saltsman  | 0 | - | 2 | Sean Ottaway |
 | Wappla | 2 | - | 0 | White Lotus |
 
 
