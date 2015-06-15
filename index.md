@@ -5,6 +5,7 @@ layout: default
 ### The Third and Final Trimester has just begun, decklists coming soon
 
 ### Recent Updates
+- Week 7: Sean Ottaway 2-0 James Saltsman
 - Week 7: Wappla 2-0 White Lotus
 - Week 7: Brian Kelly 2-1 Matthew Gottshall
 - Week 7: Dave Kaplan 2-0 Tom Dixon
