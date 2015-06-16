@@ -2,6 +2,9 @@
 layout: default
 ---
 
+### Week 8 Matches will be streamed Sunday, June 21 at 10pm EST, 7pm PST
+<a href="http://twitch.tv/hammybone">http://twitch.tv/hammybone</a>
+
 ### Recent Updates
 - [Third Trimester Decklists added](/Decklists/#third trimester)
 - Week 7: Sean Ottaway 2-0 James Saltsman
