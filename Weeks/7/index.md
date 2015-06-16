@@ -15,7 +15,8 @@ title: Week 7
 
 ### Matthew Gottshall 1 - 2 Brian Kelly
 
-***Video coming soon***
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rmP7Osae0a8?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+
 <br />
 
 ### James Saltsman  0 - 2 Sean Ottaway
@@ -34,6 +35,6 @@ Not a great matchup for James, 4 maindeck welders and Dacks makes life difficult
 
 G2 just an insane amount of variance in his direction, nothing I can do my opponent has it all and my draws are pretty awful.
 
-***Video coming soon***
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rmP7Osae0a8?t=58m34s&rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 <br />
