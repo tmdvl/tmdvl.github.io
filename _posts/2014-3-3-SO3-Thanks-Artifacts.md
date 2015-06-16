@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Dack Welder
+title: Thank You For Playing Artifacts
 tag: Sean Ottaway
-permalink: SO3-Dack-Welder
+permalink: SO3-Thanks-Artifact
 category: Third Trimester
 color: URb
 ---

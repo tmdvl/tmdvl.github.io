@@ -23,20 +23,20 @@ color: UWR
 - 1 Library of Alexandria
 
 ### Countermagic (12)
-4 Force of Will
-4 Mental Misstep
-2 Mana Drain
-1 Pyroblast
-1 Flusterstorm
+- 4 Force of Will
+- 4 Mental Misstep
+- 2 Mana Drain
+- 1 Pyroblast
+- 1 Flusterstorm
 
 ### Card Draw, Card Selection (16)
-4 Dig Through Time
-4 Gush
-4 Preordain
-1 Ponder
-1 Ancestral Recall
-1 Brainstorm
-1 Time Walk
+- 4 Dig Through Time
+- 4 Gush
+- 4 Preordain
+- 1 Ponder
+- 1 Ancestral Recall
+- 1 Brainstorm
+- 1 Time Walk
 
 ### Disruption, Removal (3)
 - 1 Lightning Bolt
