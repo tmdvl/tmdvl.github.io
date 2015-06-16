@@ -35,6 +35,6 @@ Not a great matchup for James, 4 maindeck welders and Dacks makes life difficult
 
 G2 just an insane amount of variance in his direction, nothing I can do my opponent has it all and my draws are pretty awful.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rmP7Osae0a8?t=58m34s&rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rmP7Osae0a8?start=3511&rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 <br />
