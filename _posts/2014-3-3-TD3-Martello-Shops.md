@@ -24,11 +24,11 @@ color: MUD
 - 1 Tolarian Academy
 
 ### Prison (16)
-4 Chalice of the Void
-3 Sphere of Resistance
-4 Tangle Wire
-4 Thorn of Amethyst
-1 Trinisphere
+- 4 Chalice of the Void
+- 3 Sphere of Resistance
+- 4 Tangle Wire
+- 4 Thorn of Amethyst
+- 1 Trinisphere
 
 ### Creatures (18)
 - 1 Duplicant
