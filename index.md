@@ -2,8 +2,6 @@
 layout: default
 ---
 
-### The Third and Final Trimester has just begun, decklists coming soon
-
 ### Recent Updates
 - [Third Trimester Decklists added](/Decklists/#third trimester)
 - Week 7: Sean Ottaway 2-0 James Saltsman
