@@ -2,7 +2,7 @@
 layout: post
 title: Thank You For Playing Artifacts
 tag: Sean Ottaway
-permalink: SO3-Thanks-Artifact
+permalink: SO3-Thanks-Artifacts
 category: Third Trimester
 color: URb
 ---
