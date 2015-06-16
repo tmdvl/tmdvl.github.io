@@ -74,34 +74,34 @@ title: Results
 ### End Second Trimester
 <br />
 
-|  **Season 1 Week 7** |   |   |   |   |
+|  <a href="{{ site.baseurl }}/Weeks/7" class="black">Season 1 Week 7</a> |   |   |   |   |
 | --- |:---:|:---:|:---:|---:|
-| MaximumCDawg | ? | - | ? | Stormanimagus |
-| Tom Dixon | 0 | - | 2 | Dave Kaplan |
-| Matthew Gottshall | 1 | - | 2 | Brian Kelly |
-| James Saltsman  | 0 | - | 2 | Sean Ottaway |
-| Wappla | 2 | - | 0 | White Lotus |
+| [MaximumCDawg](/MCD3-Chain-Combo) | ? | - | ? | [Stormanimagus](/ST3-Mentor) |
+| [Tom Dixon](/TD3-Martello-Shops) | 0 | - | 2 | [Dave Kaplan](/DK3-Frobots) |
+| [Matthew Gottshall](/MG3-Crime-City-Vault) | 1 | - | 2 | [Brian Kelly](/BK3-Armored-Dragon) |
+| [James Saltsman](/JGS3-Terra-Nova)  | 0 | - | 2 | [Sean Ottaway](/SO3-Dack-Welder) |
+| [Wappla](/W3-Terra-Nova) | 2 | - | 0 | [White Lotus](/WL3-Burning-Oath) |
 
 
 <br />
 
 |  **Season 1 Week 8** |   |   |   |   |
 | --- |:---:|:---:|:---:|---:|
-| Matthew Gottshall | ? | - | ? | Stormanimagus |
-| Tom Dixon | ? | - | ? | White Lotus |
-| Dave Kaplan | ? | - | ? | Brian Kelly |
-| MaximumCDawg | ? | - | ? | Sean Ottaway |
-| Wappla | ? | - | ? | James Saltsman |
+| [Matthew Gottshall](/MG3-Crime-City-Vault) | ? | - | ? | [Stormanimagus](/ST3-Mentor) |
+| [Tom Dixon](/TD3-Martello-Shops)| ? | - | ? | [White Lotus](/WL3-Burning-Oath) |
+| [Dave Kaplan](/DK3-Frobots) | ? | - | ? | [Brian Kelly](/BK3-Armored-Dragon) |
+| [MaximumCDawg](/MCD3-Chain-Combo) | ? | - | ? | [Sean Ottaway](/SO3-Dack-Welder |
+| [Wappla](/W3-Terra-Nova) | ? | - | ? | [James Saltsman](/JGS3-Terra-Nova) |
 
 <br />
 
 |  **Season 1 Week 9** |   |   |   |   |
 | --- |:---:|:---:|:---:|---:|
-| Sean Ottaway | ? | - | ? | Stormanimagus |
-| Tom Dixon | ? | - | ? | Wappla |
-| Matthew Gottshall | ? | - | ? | Dave Kaplan |
-| James Saltsman  | ? | - | ? | MaximumCDawg |
-| Brian Kelly | ? | - | ? | White Lotus |
+| [Sean Ottaway](/SO3-Dack-Welder | ? | - | ? | [Stormanimagus](/ST3-Mentor) |
+| [Tom Dixon](/TD3-Martello-Shops) | ? | - | ? | [Wappla](/W3-Terra-Nova) |
+| [Matthew Gottshall](/MG3-Crime-City-Vault) | ? | - | ? | [Dave Kaplan](/DK3-Frobots) |
+| [James Saltsman](/JGS3-Terra-Nova) | ? | - | ? | [MaximumCDawg](/MCD3-Chain-Combo) |
+| [Brian Kelly](/BK3-Armored-Dragon) | ? | - | ? | [White Lotus](/WL3-Burning-Oath) |
 
 <br />
 
