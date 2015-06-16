@@ -2,7 +2,7 @@
 layout: post
 title: Mentor Control
 tag: Stormanimagus
-permalink: ST2-Mentor
+permalink: ST3-Mentor
 category: Third Trimester
 color: UWR
 ---
