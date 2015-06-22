@@ -17,7 +17,7 @@ Top 4 qualify for playoffs
 | Tom Dixon  |3 | 4 |
 | Stormanimagus | 3 | 5 |
 | Wappla | 2 | 5 |
-| MaximumCDawg | 2 | 5 |
+| MaximumCDawg | 2 | 6 |
 
 
 <br /><br />
