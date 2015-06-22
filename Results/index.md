@@ -85,7 +85,7 @@ title: Results
 
 <br />
 
-|  **Season 1 Week 8** |   |   |   |   |
+|  <a href="{{ site.baseurl }}/Weeks/8" class="black">Season 1 Week 8</a> |   |   |   |   |
 | --- |:---:|:---:|:---:|---:|
 | [Matthew Gottshall](/MG3-Crime-City-Vault) | ? | - | ? | [Stormanimagus](/ST3-Mentor) |
 | [Tom Dixon](/TD3-Martello-Shops)| ? | - | ? | [White Lotus](/WL3-Burning-Oath) |
