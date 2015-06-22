@@ -11,7 +11,7 @@ A complete archive of past streams can be found <a href="https://www.youtube.com
 - Week 8: Stormanimagus 2-0 Matthew Gottshall
 - Week 8: Brian Kelly 2-0 Dave Kaplan
 - Week 8: MaximumCDawg 2-0 Sean Ottaway
-- Week 7: Stormanimagus 2-0 MaximumCDawg
+- Week 7: Stormanimagus 2-1 MaximumCDawg
 - [Third Trimester Decklists added](/Decklists/#third trimester)
 - Week 7: Sean Ottaway 2-0 James Saltsman
 - Week 7: Wappla 2-0 White Lotus
