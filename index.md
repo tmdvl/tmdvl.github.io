@@ -2,19 +2,21 @@
 layout: default
 ---
 
-### Week 8 Matches will be streamed Sunday, June 21 at 10pm EST, 7pm PST
+### Stay tuned for stream announcements of upcoming matches.
 <a href="http://twitch.tv/hammybone">http://twitch.tv/hammybone</a>
 
 A complete archive of past streams can be found <a href="https://www.youtube.com/user/SpaceStormy/videos">on Youtube</a>.
 
 ### Recent Updates
+- Week 8: Stormanimagus 2-0 Matthew Gottshall
+- Week 8: Brian Kelly 2-0 Dave Kaplan
+- Week 8: MaximumCDawg 2-0 Sean Ottaway
+- Week 7: Stormanimagus 2-0 MaximumCDawg
 - [Third Trimester Decklists added](/Decklists/#third trimester)
 - Week 7: Sean Ottaway 2-0 James Saltsman
 - Week 7: Wappla 2-0 White Lotus
 - Week 7: Brian Kelly 2-1 Matthew Gottshall
 - Week 7: Dave Kaplan 2-0 Tom Dixon
-- Match Videos added to Week 6 page.
-
 
 
 ### Welcome!

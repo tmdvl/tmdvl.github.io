@@ -11,13 +11,13 @@ Top 4 qualify for playoffs
 | Brian Kelly | 6 | 1 |
 | White Lotus  | 5 | 2 |
 | Dave Kaplan  | 5 | 2 |
-| Matthew Gottshall | 4 | 3 |
-| Sean Ottaway | 4 | 3 |
+| Matthew Gottshall | 4 | 4 |
+| Sean Ottaway | 4 | 4 |
 | James Saltsman | 3 | 4 |
 | Tom Dixon  |3 | 4 |
+| Stormanimagus | 3 | 5 |
 | Wappla | 2 | 5 |
-| Stormanimagus | 1 | 5 |
-| MaximumCDawg | 1 | 5 |
+| MaximumCDawg | 2 | 5 |
 
 
 <br /><br />
