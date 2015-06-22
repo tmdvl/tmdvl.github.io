@@ -5,7 +5,7 @@ title: Week 7
 
 ### Currently in progress
 
-### MaximumCDawg 0 - 2 Stormanimagus
+### MaximumCDawg 1 - 2 Stormanimagus
 
 ***MaximumCDawg***: The match against Stormy was a boondoggle.  My internet connection kept burping and we'd lose the entire game.  He was nice enough to reset once we did that, but even so, I was doing really well Game 1 before the bad times struck.  The games did not feel terribly lopsided, but he managed to keep the control roll up just enough before finally Mentorin' for the win
 
