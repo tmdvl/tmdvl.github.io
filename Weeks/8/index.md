@@ -23,4 +23,4 @@ title: Week 8
 
 <br />
 
-### [Wappla](/W3-Terra-Nova) ? - ? [James Saltsman](/JGS3-Terra-Nova)
+### [Wappla](/W3-Terra-Nova) 0 - 2 [James Saltsman](/JGS3-Terra-Nova)
