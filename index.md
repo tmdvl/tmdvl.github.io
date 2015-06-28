@@ -8,6 +8,7 @@ layout: default
 A complete archive of past streams can be found <a href="https://www.youtube.com/user/SpaceStormy/videos">on Youtube</a>.
 
 ### Recent Updates
+- Week 9: Matthew Gottshall 2-1 Dave Kaplan
 - Week 8: James Saltsman 2-0 Wappla
 - Week 8: Stormanimagus 2-0 Matthew Gottshall
 - Week 8: Brian Kelly 2-0 Dave Kaplan
