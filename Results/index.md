@@ -76,7 +76,7 @@ title: Results
 
 |  <a href="{{ site.baseurl }}/Weeks/7" class="black">Season 1 Week 7</a> |   |   |   |   |
 | --- |:---:|:---:|:---:|---:|
-| [MaximumCDawg](/MCD3-Chain-Combo) | ? | - | 2 | [Stormanimagus](/ST3-Mentor) |
+| [MaximumCDawg](/MCD3-Chain-Combo) | 1 | - | 2 | [Stormanimagus](/ST3-Mentor) |
 | [Tom Dixon](/TD3-Martello-Shops) | 0 | - | 2 | [Dave Kaplan](/DK3-Frobots) |
 | [Matthew Gottshall](/MG3-Crime-City-Vault) | 1 | - | 2 | [Brian Kelly](/BK3-Armored-Dragon) |
 | [James Saltsman](/JGS3-Terra-Nova)  | 0 | - | 2 | [Sean Ottaway](/SO3-Thanks-Artifacts) |
@@ -88,7 +88,7 @@ title: Results
 |  <a href="{{ site.baseurl }}/Weeks/8" class="black">Season 1 Week 8</a> |   |   |   |   |
 | --- |:---:|:---:|:---:|---:|
 | [Matthew Gottshall](/MG3-Crime-City-Vault) | 0 | - | 2 | [Stormanimagus](/ST3-Mentor) |
-| [Tom Dixon](/TD3-Martello-Shops)| ? | - | ? | [White Lotus](/WL3-Burning-Oath) |
+| [Tom Dixon](/TD3-Martello-Shops)| 2 | - | 0 | [White Lotus](/WL3-Burning-Oath) |
 | [Dave Kaplan](/DK3-Frobots) | 0 | - | 2 | [Brian Kelly](/BK3-Armored-Dragon) |
 | [MaximumCDawg](/MCD3-Chain-Combo) | 2 | - | 0 | [Sean Ottaway](/SO3-Thanks-Artifacts) |
 | [Wappla](/W3-Terra-Nova) | 0 | - | 2 | [James Saltsman](/JGS3-Terra-Nova) |
