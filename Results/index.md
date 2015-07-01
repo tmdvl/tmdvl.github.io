@@ -95,10 +95,10 @@ title: Results
 
 <br />
 
-|  **Season 1 Week 9** |   |   |   |   |
+|  <a href="{{ site.baseurl }}/Weeks/9" class="black">Season 1 Week 9</a> |   |   |   |   |
 | --- |:---:|:---:|:---:|---:|
 | [Sean Ottaway](/SO3-Thanks-Artifacts) | ? | - | ? | [Stormanimagus](/ST3-Mentor) |
-| [Tom Dixon](/TD3-Martello-Shops) | ? | - | ? | [Wappla](/W3-Terra-Nova) |
+| [Tom Dixon](/TD3-Martello-Shops) | 1 | - | 2 | [Wappla](/W3-Terra-Nova) |
 | [Matthew Gottshall](/MG3-Crime-City-Vault) | 2 | - | 1 | [Dave Kaplan](/DK3-Frobots) |
 | [James Saltsman](/JGS3-Terra-Nova) | ? | - | ? | [MaximumCDawg](/MCD3-Chain-Combo) |
 | [Brian Kelly](/BK3-Armored-Dragon) | ? | - | ? | [White Lotus](/WL3-Burning-Oath) |
