@@ -101,7 +101,7 @@ title: Results
 | [Tom Dixon](/TD3-Martello-Shops) | 1 | - | 2 | [Wappla](/W3-Terra-Nova) |
 | [Matthew Gottshall](/MG3-Crime-City-Vault) | 2 | - | 1 | [Dave Kaplan](/DK3-Frobots) |
 | [James Saltsman](/JGS3-Terra-Nova) | ? | - | ? | [MaximumCDawg](/MCD3-Chain-Combo) |
-| [Brian Kelly](/BK3-Armored-Dragon) | ? | - | ? | [White Lotus](/WL3-Burning-Oath) |
+| [Brian Kelly](/BK3-Armored-Dragon) | 2 | - | 0 | [White Lotus](/WL3-Burning-Oath) |
 
 <br />
 

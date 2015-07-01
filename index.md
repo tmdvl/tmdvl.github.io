@@ -8,6 +8,7 @@ layout: default
 A complete archive of past streams can be found <a href="https://www.youtube.com/user/SpaceStormy/videos">on Youtube</a>.
 
 ### Recent Updates
+- Week 9: Brian Kelly 2-0 White Lotus
 - Week 9: Wappla 2-1 Tom Dixon
 - Week 9: Matthew Gottshall 2-1 Dave Kaplan
 - Week 8: Tom Dixon 2-0 White Lotus

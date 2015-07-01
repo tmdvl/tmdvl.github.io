@@ -31,4 +31,8 @@ Game Three was close but I Pondered into a Hurkyls that I used at his end phase 
 
 <br />
 
-### [Brian Kelly](/BK3-Armored-Dragon) ? - ? [White Lotus](/WL3-Burning-Oath)
+### [Brian Kelly](/BK3-Armored-Dragon) 2 - 0 [White Lotus](/WL3-Burning-Oath)
+
+Game 1 he mulled to Turn 1 Defense Grid with Preordain, Dark Ritual (no outlet), and Oath of Druids with no Orchard.  I countered everything except Oath of Druids and used Jace to fateseal several Orchards to the bottom.  The last straw was when I paid 5 through Grid to use the Spell Pierce mode of Izzet Charm on his Dark Ritual.
+
+Game 2, he died to 3 Spirit tokens, 1 Containment Priest, 1 Ethersworn Canonist, and 2 Force of Wills.
