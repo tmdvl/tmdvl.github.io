@@ -5,7 +5,11 @@ title: Week 8
 
 ### Currently in progress
 
-### [Sean Ottaway](/SO3-Thanks-Artifacts) ? - ? [Stormanimagus](/ST3-Mentor)
+### [Sean Ottaway](/SO3-Thanks-Artifacts) 0 - 2 [Stormanimagus](/ST3-Mentor)
+
+***Stormanimagus***: Game 1 was just very awkward for both of us. Mana Crypt did it's usual job of halving my opponent's life total and Mentor did the rest despite me drawing 1 land in 18 cards (2 moxen for the mentor) and sitting on a dig and a dack the whole game that would have been castable if I drew 1 land. He really whiffed on red land early which bought me the tempo and time I needed to get there. Awkward awkward game for both of us.
+
+Game 2 was a little more interesting at first but it spiraled out of control late. I opened on double misstep double plow and only 1 misstep ended up being useful to eat an early Goblin Welder. Early Stony Silence kept his mana at bay but then he gets dack and starts ripping through his deck while I topdeck. . . nothing. This goes on for many turns. A Daretti and Tezz eventually join the party on his end, but he still doesn't have an out to the stony and he can't seem to find a Wurmcoil to bin. After using an Ancestral to find Mentor I finally have a threat to start chipping away at his life total and he's down to 0 cards in hand at the beginning of each turn. I steal a mox of his with a Dack of my own to reduce the value of his Tolarian and simultaneously make Tezz's ultimate way worse. It's an insane game where he has 3 plainswalkers in play for much of the end of the game just chugging away and finding him nothing relevant in the face of an active Stony Silence. My Mentor eventually delivers the goods with a turn of spell chaining and gross prowessing. Weird note. I did not cast a single Gush or even see a Gush either game. crazy!
 
 <br />
 

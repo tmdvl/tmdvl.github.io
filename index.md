@@ -8,14 +8,10 @@ layout: default
 A complete archive of past streams can be found <a href="https://www.youtube.com/user/SpaceStormy/videos">on Youtube</a>.
 
 ### Recent Updates
+- Week 9: Stormanimagus 2-0 Sean Ottaway
 - Week 9: Brian Kelly 2-0 White Lotus
 - Week 9: Wappla 2-1 Tom Dixon
 - Week 9: Matthew Gottshall 2-1 Dave Kaplan
-- Week 8: Tom Dixon 2-0 White Lotus
-- Week 8: James Saltsman 2-0 Wappla
-- Week 8: Stormanimagus 2-0 Matthew Gottshall
-- Week 8: Brian Kelly 2-0 Dave Kaplan
-- Week 8: MaximumCDawg 2-0 Sean Ottaway
 - [Third Trimester Decklists added](/Decklists/#third trimester)
 
 
