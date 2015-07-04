@@ -7,7 +7,10 @@ layout: default
 
 A complete archive of past streams can be found <a href="https://www.youtube.com/user/SpaceStormy/videos">on Youtube</a>.
 
+### The regular season is complete! Playoffs announcement coming soon.
+
 ### Recent Updates
+- Week 9: James Saltsman 2-0 MaximumCDawg
 - Week 9: Stormanimagus 2-0 Sean Ottaway
 - Week 9: Brian Kelly 2-0 White Lotus
 - Week 9: Wappla 2-1 Tom Dixon

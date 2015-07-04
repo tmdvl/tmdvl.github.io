@@ -31,7 +31,9 @@ Game Three was close but I Pondered into a Hurkyls that I used at his end phase 
 
 <br />
 
-### [James Saltsman](/JGS3-Terra-Nova) ? - ? [MaximumCDawg](/MCD3-Chain-Combo)
+### [James Saltsman](/JGS3-Terra-Nova) 2 - 0 [MaximumCDawg](/MCD3-Chain-Combo)
+
+***James Saltsman***: Max wins the die roll, but mulls to 4 and concedes after I resolve a Chalice at 1 and have a Sphere, Thorn, and Mutavault on field by turn 2. Game 2 is even more unfortunate for Max since he kept losing connection and decided to concede to me.
 
 <br />
 
