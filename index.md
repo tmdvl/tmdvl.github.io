@@ -6,15 +6,22 @@ layout: default
 <a href="http://twitch.tv/hammybone">http://twitch.tv/hammybone</a>
 
 <br />
+The competitors are:
+
+- Kael Williams
+- Alexandros Jaedon Chapin
+- Michael Mahr
+- Joseph Milia
+- Perran Archbold
+- Kevin Poisson
+- Phil Cassidy
+- MaximumCDawg
 
 A complete archive of past streams can be found <a href="https://www.youtube.com/user/SpaceStormy/videos">on Youtube</a>.
 
 <br />
 
-### This concludes the Swiss Rounds of Season One of The Mana Drain Vintage League, we have had some interesting decks, some innovation, some amazing plays, some disappointments but now we move to the next stage: playoffs!
-
-Here are the final standings after the Swiss Rounds:
-
+### Season 1 Final Standings
 
 - Brian Kelly (8-1)
 - Dave Kaplan (5-4) (3)
