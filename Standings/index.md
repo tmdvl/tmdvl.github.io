@@ -50,5 +50,21 @@ Top 4 qualify for playoffs
 | Stormanimagus | 1 | 2 |
 | MaximumCDawg | 0 | 3|
 
+<br /><br />
+
+|  **Third Trimester Records** | **w**  | **l**  |
+| --- |:---:|:---:|
+| Brian Kelly | 3 | 0 |
+| Stormanimagus | 3 | 0 |
+| Wappla | 2 | 1 |
+| James Saltsman | 2 | 1 |
+| Tom Dixon  | 1 | 2 |
+| Dave Kaplan  | 1 | 2 |
+| Matthew Gottshall | 1 | 2 |
+| Sean Ottaway | 1 | 2 |
+| MaximumCDawg | 1 | 2 |
+| White Lotus  | 0 | 3 |
+
+
 
 
