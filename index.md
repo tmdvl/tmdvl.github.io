@@ -2,10 +2,14 @@
 layout: default
 ---
 
-### Stay tuned for stream announcements of upcoming matches.
+### Tune in tonight (July 5th) at 9 PM EST for the Season 2 Qualifier Tournament
 <a href="http://twitch.tv/hammybone">http://twitch.tv/hammybone</a>
 
+<br />
+
 A complete archive of past streams can be found <a href="https://www.youtube.com/user/SpaceStormy/videos">on Youtube</a>.
+
+<br />
 
 ### This concludes the Swiss Rounds of Season One of The Mana Drain Vintage League, we have had some interesting decks, some innovation, some amazing plays, some disappointments but now we move to the next stage: playoffs!
 
