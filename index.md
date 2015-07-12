@@ -2,20 +2,14 @@
 layout: default
 ---
 
-### Tune in tonight (July 5th) at 9 PM EST for the Season 2 Qualifier Tournament
+### Tune in tonight (July 12th) at 8.45 PM EST for the Season 1 Quarterfinals
 <a href="http://twitch.tv/hammybone">http://twitch.tv/hammybone</a>
 
 <br />
 The competitors are:
 
-- Kael Williams
-- Alexandros Jaedon Chapin
-- Michael Mahr
-- Joseph Milia
-- Perran Archbold
-- Kevin Poisson
-- Phil Cassidy
-- MaximumCDawg
+- Matthew Gottshall
+- James Saltsman
 
 A complete archive of past streams can be found <a href="https://www.youtube.com/user/SpaceStormy/videos">on Youtube</a>.
 
