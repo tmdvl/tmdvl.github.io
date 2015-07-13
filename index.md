@@ -2,14 +2,7 @@
 layout: default
 ---
 
-### Tune in tonight (July 12th) at 8.45 PM EST for the Season 1 Quarterfinals
-<a href="http://twitch.tv/hammybone">http://twitch.tv/hammybone</a>
-
-<br />
-The competitors are:
-
-- Matthew Gottshall
-- James Saltsman
+### Matthew Gottshall advances to Semifinals after defeating James Saltsman 3-0
 
 A complete archive of past streams can be found <a href="https://www.youtube.com/user/SpaceStormy/videos">on Youtube</a>.
 
