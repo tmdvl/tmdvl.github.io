@@ -52,18 +52,47 @@ title: Playoffs
 
 | **Semifinals** |   |   |   |   |
 | :--- |:---:|:---:|:---:|---:|
-| **Dave Kaplan**  | - | - | - | **Winner of Quarters** |
-| Deck A | - | - | - |  Deck A |
-| Deck B | - | - | - |  Deck B |
-| Deck C | - | - | - |  Deck C |
-| If necessary | - | - | - | |
-| If necessary | - | - | - | |
+| **Dave Kaplan**  | 3 | - | 1 | **Winner of Quarters** |
+| Dredge | 2 | - | 0 |  Pox |
+| Delver | 2 | - | 0 |  Blue Moon |
+| Stax | 2 | - | 1 |  Dredge |
+| Dredge | 2 | - | 0 | Blue Moon |
+
+<br />
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SK7qxbnybg8?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+
+<br />
+
+### Dredge - Dave Kaplan
+
+<iframe src="http://pastebin.com/embed_iframe.php?i=qdj5XJvf" style="border:none;width:100%"></iframe>
+
+### Delver - Dave Kaplan
+
+<iframe src="http://pastebin.com/embed_iframe.php?i=tuUTTbfT" style="border:none;width:100%"></iframe>
+
+### Stax - Dave Kaplan
+
+<iframe src="http://pastebin.com/embed_iframe.php?i=1GTeiecL" style="border:none;width:100%"></iframe>
+
+### Pox - Matthew Gottshall
+
+<iframe src="http://pastebin.com/embed_iframe.php?i=YcSaZAFx" style="border:none;width:100%"></iframe>
+
+### Blue Moon - Matthew Gottshall
+
+<iframe src="http://pastebin.com/embed_iframe.php?i=iehNJLG9" style="border:none;width:100%"></iframe>
+
+### Dredge - Matthew Gottshall
+
+<iframe src="http://pastebin.com/embed_iframe.php?i=kBpLsRQ6" style="border:none;width:100%"></iframe>
 
 <br />
 
 | **Finals** |   |   |   |   |
 | :--- |:---:|:---:|:---:|---:|
-| **Brian Kelly**  | - | - | - | **Winner of Semis** |
+| **Brian Kelly**  | - | - | - | **Dave Kaplan** |
 | Deck A | - | - | - |  Deck A |
 | Deck B | - | - | - |  Deck B |
 | Deck C | - | - | - |  Deck C |
