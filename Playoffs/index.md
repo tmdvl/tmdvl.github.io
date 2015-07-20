@@ -52,7 +52,7 @@ title: Playoffs
 
 | **Semifinals** |   |   |   |   |
 | :--- |:---:|:---:|:---:|---:|
-| **Dave Kaplan**  | 3 | - | 1 | **Winner of Quarters** |
+| **Dave Kaplan**  | 3 | - | 1 | **Matthew Gottshall** |
 | Dredge | 2 | - | 0 |  Pox |
 | Delver | 2 | - | 0 |  Blue Moon |
 | Stax | 2 | - | 1 |  Dredge |
