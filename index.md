@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### Dave Kaplan advances to Finals, beating Matthew Gottshall 3-0
+### Dave Kaplan advances to Finals, beating Matthew Gottshall 3-1
 
 A complete archive of past streams can be found <a href="https://www.youtube.com/user/SpaceStormy/videos">on Youtube</a>.
 
