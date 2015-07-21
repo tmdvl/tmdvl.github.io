@@ -53,9 +53,9 @@ title: Playoffs
 | **Semifinals** |   |   |   |   |
 | :--- |:---:|:---:|:---:|---:|
 | **Dave Kaplan**  | 3 | - | 1 | **Matthew Gottshall** |
-| Dredge | 2 | - | 0 |  Pox |
+| Dredge | 2 | - | 1 |  Pox |
 | Delver | 2 | - | 0 |  Blue Moon |
-| Stax | 2 | - | 1 |  Dredge |
+| Stax | 0 | - | 2 |  Dredge |
 | Dredge | 2 | - | 0 | Blue Moon |
 
 <br />
